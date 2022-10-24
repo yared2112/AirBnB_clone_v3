@@ -153,9 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Susenyos Legese - [Github](https://github.com/Susiniosgit) 
-Alex Girma - [Github](https://github.com/alexagirma) 
+## Author
+Yared Teklewold - [Github](https://github.com/yared2112) 
 
 Second part of Airbnb: Joann Vuong
 ## License
